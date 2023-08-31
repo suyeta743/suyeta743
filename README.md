@@ -1,4 +1,3 @@
-[![MasterHead](https://videoplasty.com/stock-animation/chill-coding-programming-lofi-animation-11018)](https://suyeta743.io)
 <h1 align="center">Hi 👋, I'm Suyeta Chowdhury</h1>
 <h3 align="center">Passionate about solving complex problems, learning new skills</h3>
 <img align="right" alt="Coding" width="400" src=img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://dribbble.com/shots/3848914-Programmer-Thomas/attachments/10055456?mode=media)">
